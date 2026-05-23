@@ -290,10 +290,9 @@ Hyperparameter tuning was performed using `RandomizedSearchCV` with 3-fold cross
 
 ## 👩‍💻 Author
 
-**Shivangi Shukla**
+**Shivangi Shukla** — Data Analyst & ML Builder
 
-[![GitHub](https://img.shields.io/badge/GitHub-shivangishuklaa-181717?style=flat-square&logo=github)](https://github.com/shivangishuklaa)
-
+🌐 [shivangishukla.tech](https://www.shivangishukla.tech) &nbsp;|&nbsp; 💼 [LinkedIn](https://www.linkedin.com/in/shivangi-shukla-data-analyst/) &nbsp;|&nbsp; 🐙 [GitHub](https://github.com/shivangishuklaa)
 ---
 
 ## 📄 License
